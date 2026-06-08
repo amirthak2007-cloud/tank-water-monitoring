@@ -1,0 +1,12 @@
+# Raw Sentinel-2 downloads
+S2A_*.SAFE/
+S2B_*.SAFE/
+
+# ArcGIS junk files
+Tank data/
+*.lock
+*.lock_Error.txt
+
+# Python cache
+__pycache__/
+*.pyc
